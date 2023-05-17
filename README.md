@@ -16,15 +16,15 @@
 ## Teams
 | Team | High School Students | Mentors | 
 | -- | -- | -- |
-| Team 1 | Bella D'Alessandro, Alex Moreira, Angelyce Sanchez | TBD |
-| Team 2 | Lennon Farias, Christian Gobern, Ariella Johnson | TBD |
-| Team 3 | Ava Domingues, Andrew Daniel, William Shealy | TBD |
-| Team 4 | Angela Hardy, Heidy Gomez, Alexa Eliminowicz | TBD |
-| Team 5 | Ty Messier, Christopher Howard, Michael Scotti | TBD |
-| Team 6 | Hope Moran, Abygail Josephson, Luke Gray | TBD |
-| Team 7 | Shyla Vecchio, Ikakke Okokon, Jonah Buttie | TBD |
-| Team 8 | Jayla R Da Graca, Hadayza Rodriguez Garcia, Devin Cruz | TBD |
-| Team 9 | Margaret Robinson, Marcuslyne Sieh, Adam D'Ercole | TBD |
+| Team 1 | Bella D'Alessandro, Alex Moreira, Angelyce Sanchez | Katelyn, Aviva, Anirban, Sebastian, Chrystinne |
+| Team 2 | Lennon Farias, Christian Gobern, Ariella Johnson | Natalie, Urvish, Barbara, Jonathan, Xiaomeng |
+| Team 3 | Ava Domingues, Andrew Daniel, William Shealy | Elizabeth, Tiffany, Brian, Mingying, Tomonoshin |
+| Team 4 | Angela Hardy, Heidy Gomez, Alexa Eliminowicz | Bopardikar, Amélie , Dom, Lucas |
+| Team 5 | Ty Messier, Christopher Howard, Michael Scotti | Kathryn, Beatrice, François, Joseph |
+| Team 6 | Hope Moran, Abygail Josephson, Luke Gray | Michael, Brian, Grigorij, Mathew |
+| Team 7 | Shyla Vecchio, Ikakke Okokon, Jonah Buttie | Kenneth, Charles, Joey, Peter, Chenyu |
+| Team 8 | Jayla R Da Graca, Hadayza Rodriguez Garcia, Devin Cruz | Aimee, Patricia, David, Kanan, Rakesh, Sicheng |
+| Team 9 | Margaret Robinson, Marcuslyne Sieh, Adam D'Ercole | Patricia, Douglas, Fredrik, Pablo, Renata, Matthieu |
 
 
 ## What to Bring?
